@@ -1,4 +1,4 @@
-# Olá, eu sou José Fernando 👋
+José Fernando Alves Leite
 
 🎓 Estudante de Computação
 
@@ -6,29 +6,45 @@
 
 🔧 Entusiasta de Arduino e Automação
 
-📚 Desenvolvendo um Sistema de Biblioteca Escolar
+Sobre mim
 
-🤖 Criando um Assistente IA Offline em Python
+Sou estudante da área de tecnologia com interesse em desenvolvimento de software, automação e inteligência artificial.
 
-## Tecnologias
+Atualmente desenvolvo projetos em Python, incluindo um Sistema de Biblioteca Escolar e um Assistente Virtual Offline.
+
+Tecnologias
 
 - Python
 - Tkinter
 - SQLite
-- Git/GitHub
+- Git e GitHub
 - Arduino
 
-## Projetos em Destaque
+Projetos em destaque
 
-### 📚 Sistema de Biblioteca Escolar
+Sistema de Biblioteca Escolar
+
 Sistema para gerenciamento de livros, alunos, empréstimos e relatórios.
 
-### 🤖 Jarvis Desktop Assistant
-Assistente virtual offline com reconhecimento de voz e memória local.
+Jarvis Desktop Assistant
 
-### 🔧 Projetos Arduino
-Automação, Bluetooth HC-05 e controle infravermelho.
+Assistente virtual offline com reconhecimento de voz, memória local e interface gráfica.
 
-## Contato
+Projetos Arduino
 
-- LinkedIn: www.linkedin.com/in/josé-fernando-alves-leite-4b7224418
+Projetos envolvendo automação, Bluetooth HC-05 e controle infravermelho.
+
+Formação
+
+- Curso Técnico em Informática
+- Certificados SENAC
+- Participação na FECINTAFS
+- Menção Honrosa OBMEP
+
+Contato
+
+LinkedIn:
+www.linkedin.com/in/josé-fernando-alves-leite-4b7224418
+
+GitHub:
+github.com/Jose-FernandoAL
